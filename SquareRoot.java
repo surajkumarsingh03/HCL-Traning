@@ -1,3 +1,5 @@
+//Write a program to find square root of a given number using java.Math class
+
 import java.util.Scanner;
 import java.math.*;
 public class SquareRoot {
