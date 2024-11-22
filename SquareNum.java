@@ -8,7 +8,7 @@ public class SquareNum {
 		for(int i=1;i<=n;i++) {
 			sum +=i*i;
 		}
-		System.out.println("sum of squares of numbers is : " + sum);
+		System.out.println("sum of squares  is : " + sum);
 		return 0;
 	}
 	
